@@ -10,3 +10,4 @@ def greeting(name, department):
 
 greeting("Dil", "Tech support")
 greeting("Jake", "IT Hub")
+
